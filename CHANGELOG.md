@@ -1,5 +1,13 @@
 # Change Log
 
+## [Unreleased](https://github.com/crijke/feathers-envhelpers/tree/HEAD)
+
+[Full Changelog](https://github.com/crijke/feathers-envhelpers/compare/v0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- \[Security\] Bump lodash from 4.17.10 to 4.17.15 [\#5](https://github.com/crijke/feathers-envhelpers/pull/5) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+
 ## [v0.2.0](https://github.com/crijke/feathers-envhelpers/tree/v0.2.0) (2018-06-17)
 [Full Changelog](https://github.com/crijke/feathers-envhelpers/compare/v0.1.0...v0.2.0)
 

@@ -1,7 +1,7 @@
 {
   "name": "feathers-envhelpers",
   "description": "Convenience functions get the current node environment",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "homepage": "https://github.com/crijke/feathers-envhelpers",
   "main": "lib/",
   "keywords": [
@@ -46,13 +46,13 @@
     "lib": "lib"
   },
   "dependencies": {
-    "sinon": "^7.4.1"
+    "sinon": "^7.5.0"
   },
   "devDependencies": {
-    "@feathersjs/feathers": "^3.3.1",
+    "@feathersjs/feathers": "^4.3.10",
     "chai": "^4.2.0",
     "istanbul": "^1.1.0-alpha.1",
-    "mocha": "^6.2.0",
-    "semistandard": "^13.0.1"
+    "mocha": "^6.2.2",
+    "semistandard": "^14.2.0"
   }
 }
